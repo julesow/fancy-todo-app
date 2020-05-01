@@ -1,0 +1,22 @@
+{
+  "name": "fancy-todo-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julesow/fancy-todo-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julesow/fancy-todo-app/issues"
+  },
+  "homepage": "https://julesow.github.io/fancy-todo-app",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
